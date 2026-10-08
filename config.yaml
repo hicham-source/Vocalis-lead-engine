@@ -1,0 +1,36 @@
+niches:
+  dental clinic:
+    calls_per_day: 30
+    miss_rate: 0.30
+    booking_rate: 0.40
+    avg_ticket_sar: 1000
+
+  beauty center:
+    calls_per_day: 45
+    miss_rate: 0.35
+    booking_rate: 0.50
+    avg_ticket_sar: 750
+
+  gym:
+    calls_per_day: 50
+    miss_rate: 0.35
+    booking_rate: 0.30
+    avg_ticket_sar: 1200
+
+  veterinary clinic:
+    calls_per_day: 25
+    miss_rate: 0.30
+    booking_rate: 0.45
+    avg_ticket_sar: 500
+
+  car rental:
+    calls_per_day: 60
+    miss_rate: 0.40
+    booking_rate: 0.35
+    avg_ticket_sar: 1500
+
+  law firm:
+    calls_per_day: 20
+    miss_rate: 0.30
+    booking_rate: 0.25
+    avg_ticket_sar: 3000
